@@ -1,0 +1,21 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /*?
+Disallow: /transaction-monitoring-2-page
+Disallow: /kyt_sale
+Disallow: /red-check
+Disallow: /feedback/thankyou
+Disallow: /crypto-compliance-consulting/thankyou
+Disallow: /training/thankyou
+Disallow: /tm-thank-you
+Disallow: /thankyou/home
+Disallow: /thankyou/tm
+Disallow: /thankyou/kyc
+Disallow: /reclaim-crypto/thankyou
+
+# Host
+Host: https://amlbot.com
+
+# Sitemaps
+Sitemap: https://amlbot.com/sitemap.xml
